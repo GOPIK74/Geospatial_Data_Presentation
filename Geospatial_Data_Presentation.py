@@ -167,7 +167,7 @@ content.text = (
 )
 
 # Save the presentation
-ppt_file_path = "G:/GOPI_K/Keonjhar/Data/Geospatial_Data_Presentation.pptx"
+ppt_file_path = "path/Geospatial_Data_Presentation.pptx"
 ppt.save(ppt_file_path)
 
 ppt_file_path
